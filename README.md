@@ -15,7 +15,6 @@ Software Engineering student focused on multimodal model post-training and relia
 ## Selected Work
 
 - **AutoConcept** — First-author, training-free concept-guided reranking; accepted at **PRICAI 2026 (CCF-C)**. [[arXiv]](https://arxiv.org/abs/2609.01456) [[Paper]](https://realclearwave.github.io/assets/papers/autoconcept-pricai-2026.pdf)
-- **Multimodal UI Modeling** — Post-training and evaluation for UI understanding and interaction models.
 - **AMEND** — Multi-agent, constraint-aware text detoxification through specialized critics and minimal repair. [[Report]](https://realclearwave.github.io/assets/papers/amend-technical-report.pdf)
 
 ## Experience
@@ -25,6 +24,5 @@ Software Engineering student focused on multimodal model post-training and relia
 
 ## Background
 
-- Incoming M.Eng. student at **Southeast University**; B.Eng. candidate at **Soochow University**, top 6% by GPA.
-- **Python · C/C++ · PyTorch · verl · SFT · GRPO · VLM · GUI grounding · distributed training**
-- NOIP National First Prize · CSP 370 · CET-6 659
+- Incoming M.Eng. student at **Southeast University**; B.Eng. candidate at **Soochow University**.
+- **Python · C/C++ · PyTorch · ms-swift · SFT · GRPO · VLM · GUI grounding · distributed training**
