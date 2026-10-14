@@ -19,7 +19,7 @@ Software Engineering student focused on multimodal model post-training and relia
 
 ## Experience
 
-- **Ant Group** — Multimodal LLM post-training intern; built `verl`-based training workflows and evaluated UI grounding models.
+- **Ant Group** — Multimodal LLM post-training intern; built `ms-swift`-based training workflows and evaluated UI grounding models.
 - **R&L Lab, Nanjing University** — Integrated **127 algorithms** and built a processing pipeline for **70,000 road-scene images**.
 
 ## Background
