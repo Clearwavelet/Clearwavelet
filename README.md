@@ -15,7 +15,7 @@ Software Engineering student focused on multimodal model post-training and relia
 ## Selected Work
 
 - **AutoConcept** — First-author, training-free concept-guided reranking; accepted at **PRICAI 2026 (CCF-C)**. [[arXiv]](https://arxiv.org/abs/2609.01456) [[Paper]](https://arxiv.org/pdf/2609.01456)
-- **AMEND** — Multi-agent, constraint-aware text detoxification through specialized critics and minimal repair. [[Report]](https://Clearwavelet.github.io/assets/papers/AMEND-preprint.pdf)
+- **AMEND** — Multi-agent, constraint-aware text detoxification through specialized critics and minimal repair. [[arXiv]](https://arxiv.org/abs/2610.23183) [[Paper]](https://arxiv.org/pdf/2610.23183)
 
 ## Experience
 
