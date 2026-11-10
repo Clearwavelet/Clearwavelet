@@ -25,35 +25,15 @@
           "key": "Uptime",
           "value": "{{uptime}}",
           "keyColor": "#1a7f37"
-        },
-        {
-          "key": "Education",
-          "value": "Soochow University",
-          "keyColor": "#8250df"
         }
       ]
     },
     {
       "fields": [
         {
-          "key": "Focus",
-          "value": "Multimodal LLM Post-Training",
-          "keyColor": "#0969da"
-        },
-        {
-          "key": "Research",
-          "value": "Reinforcement Learning, Retrieval",
-          "keyColor": "#cf222e"
-        },
-        {
           "key": "Languages",
           "value": "Python, C/C++",
           "keyColor": "#bf8700"
-        },
-        {
-          "key": "Stack",
-          "value": "PyTorch, ms-swift, SFT, GRPO",
-          "keyColor": "#1a7f37"
         }
       ]
     },
