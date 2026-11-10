@@ -1,0 +1,130 @@
+{
+  "coloredImage": true,
+  "imageScale": 1,
+  "backgroundColor": "#ffffff",
+  "separatorColor": "#d0d7de",
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#0969da",
+        "line": "#d0d7de"
+      },
+      "fields": [
+        {
+          "key": "Name",
+          "value": "Tianyu Wang",
+          "keyColor": "#cf222e"
+        },
+        {
+          "key": "Created",
+          "value": "{{created}}",
+          "keyColor": "#bf8700"
+        },
+        {
+          "key": "Uptime",
+          "value": "{{uptime}}",
+          "keyColor": "#1a7f37"
+        },
+        {
+          "key": "Education",
+          "value": "Soochow University",
+          "keyColor": "#8250df"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Focus",
+          "value": "Multimodal LLM Post-Training",
+          "keyColor": "#0969da"
+        },
+        {
+          "key": "Research",
+          "value": "Reinforcement Learning, Retrieval",
+          "keyColor": "#cf222e"
+        },
+        {
+          "key": "Languages",
+          "value": "Python, C/C++",
+          "keyColor": "#bf8700"
+        },
+        {
+          "key": "Stack",
+          "value": "PyTorch, ms-swift, SFT, GRPO",
+          "keyColor": "#1a7f37"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "titleColor": {
+        "text": "#0969da",
+        "line": "#d0d7de"
+      },
+      "fields": [
+        {
+          "key": "Email",
+          "value": "tywangcs@foxmail.com",
+          "keyColor": "#cf222e"
+        },
+        {
+          "key": "Website",
+          "value": "https://clearwave.top",
+          "keyColor": "#1a7f37"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "titleColor": {
+      "text": "#0969da",
+      "line": "#d0d7de"
+    },
+    "rows": [
+      {
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Following",
+          "value": "{{following}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Forks",
+          "value": "{{forks}}"
+        }
+      },
+      {
+        "left": {
+          "key": "Issues",
+          "value": "{{issues}}"
+        },
+        "right": {
+          "key": "Pull Requests",
+          "value": "{{prs}}"
+        }
+      },
+      "loc"
+    ]
+  }
+}
